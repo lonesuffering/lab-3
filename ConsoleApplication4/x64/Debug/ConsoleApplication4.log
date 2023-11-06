@@ -1,0 +1,6 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\frosy\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(169,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\frosy\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(169,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\frosy\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(186,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\frosy\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(186,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  ConsoleApplication4.vcxproj -> C:\Users\frosy\source\repos\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
